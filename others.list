@@ -35,3 +35,6 @@ DOMAIN-SUFFIX,production-web.sekai.colorfulpalette.org
 DOMAIN-SUFFIX,game-version.sekai.colorfulpalette.org
 DOMAIN-SUFFIX,assetbundle-info.sekai.colorfulpalette.org
 DOMAIN-SUFFIX,assetbundle.sekai.colorfulpalette.org
+
+# Others
+DOMAIN-SUFFIX,kazumi386.org
