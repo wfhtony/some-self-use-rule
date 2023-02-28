@@ -1,0 +1,15 @@
+USER-AGENT,AbemaTV*
+DOMAIN-SUFFIX,abematv.akamaized.net
+DOMAIN-SUFFIX,vod-abematv.akamaized.net
+DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net",
+DOMAIN-SUFFIX,ds-linear-abematv.akamaized.net",
+DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net",
+DOMAIN-SUFFIX,linear-abematv.akamaized.net",
+DOMAIN,api-abematv.bucketeer.jp
+DOMAIN-SUFFIX,abema-tv.com
+DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,ameba.jp
+DOMAIN-SUFFIX,hayabusa.io
+DOMAIN-SUFFIX,hayabusa.media
+DOMAIN-SUFFIX,abema.adx.promo
