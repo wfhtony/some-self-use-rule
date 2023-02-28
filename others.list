@@ -36,5 +36,16 @@ DOMAIN-SUFFIX,game-version.sekai.colorfulpalette.org
 DOMAIN-SUFFIX,assetbundle-info.sekai.colorfulpalette.org
 DOMAIN-SUFFIX,assetbundle.sekai.colorfulpalette.org
 
+# fanbox
+DOMAIN-SUFFIX,fanbox.cc
+
+# Tver
+DOMAIN-SUFFIX,tver.jp
+DOMAIN-SUFFIX,newrelic.com
+DOMAIN-SUFFIX,brightcove.com
+
+# Radiko
+DOMAIN-SUFFIX,radiko.jp
+
 # Others
 DOMAIN-SUFFIX,kazumi386.org
