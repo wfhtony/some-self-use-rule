@@ -1,0 +1,37 @@
+# GameWith
+DOMAIN-SUFFIX,gamewith.jp
+DOMAIN-KEYWORD,gamewith-tool
+DOMAIN-KEYWORD,gamewith
+
+# CGSS
+DOMAIN-SUFFIX,starlight-stage.jp
+DOMAIN-SUFFIX,asset-starlight-stage.akamaized.net
+
+# MLTD
+DOMAIN-SUFFIX,d2sf4w9bkv485c.cloudfront.net
+DOMAIN-SUFFIX,theaterdays.appspot.com
+
+# BlueArchive-JP
+DOMAIN-SUFFIX,bluearchive.jp
+DOMAIN-SUFFIX,ba-jp-sdk.bluearchive.jp
+DOMAIN-SUFFIX,bluearchiveyostar.com
+DOMAIN-SUFFIX,yostar-serverinfo.bluearchiveyostar.com
+DOMAIN-SUFFIX,prod-xigncode.bluearchiveyostar.com
+DOMAIN-SUFFIX,prod-clientpatch.bluearchiveyostar.com
+DOMAIN-SUFFIX,prod-voice.bluearchiveyostar.com
+DOMAIN-SUFFIX,prod-notice.bluearchiveyostar.com
+
+# BlueArchive-INT
+DOMAIN-SUFFIX,nexon.com
+
+# Nikke-JP
+DOMAIN-SUFFIX,nikke-kr.com
+DOMAIN-SUFFIX,intlgame.com
+
+# PJSK-JP
+DOMAIN-SUFFIX,api.smbeat.jp
+DOMAIN-SUFFIX,sekai.colorfulpalette.org
+DOMAIN-SUFFIX,production-web.sekai.colorfulpalette.org
+DOMAIN-SUFFIX,game-version.sekai.colorfulpalette.org
+DOMAIN-SUFFIX,assetbundle-info.sekai.colorfulpalette.org
+DOMAIN-SUFFIX,assetbundle.sekai.colorfulpalette.org

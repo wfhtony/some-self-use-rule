@@ -1,0 +1,17 @@
+# mora
+DOMAIN-KEYWORD,mora
+DOMAIN-SUFFIX,mora.jp
+
+# e-onkyo
+DOMAIN-KEYWORD,e-onkyo
+DOMAIN-SUFFIX,e-onkyo.com
+DOMAIN-SUFFIX,e-onkyo-dl.co3.co.jp
+
+# ototoy
+DOMAIN-KEYWORD,ototoy
+DOMAIN-SUFFIX,ototoy.jp
+DOMAIN-SUFFIX,api.ototoy.jp
+
+# bookwalker-JP
+#DOMAIN-KEYWORD,bookwalker
+DOMAIN-SUFFIX,bookwalker.jp
