@@ -3,14 +3,6 @@ DOMAIN-SUFFIX,gamewith.jp
 DOMAIN-KEYWORD,gamewith-tool
 DOMAIN-KEYWORD,gamewith
 
-# Cycomi
-DOMAIN-KEYWORD,cycomi
-DOMAIN-SUFFIX,cycomi.com
-
-# CGSS
-DOMAIN-SUFFIX,starlight-stage.jp
-DOMAIN-SUFFIX,asset-starlight-stage.akamaized.net
-
 # MLTD
 DOMAIN-SUFFIX,d2sf4w9bkv485c.cloudfront.net
 DOMAIN-SUFFIX,theaterdays.appspot.com
@@ -53,3 +45,8 @@ DOMAIN-SUFFIX,radiko.jp
 
 # Others
 DOMAIN-SUFFIX,kazumi386.org
+DOMAIN-KEYWORD,2chan
+DOMAIN-SUFFIX,2chan.net
+DOMAIN-SUFFIX,ftbucket.info
+DOMAIN-KEYWORD,5ch
+DOMAIN-SUFFIX,5ch.net
