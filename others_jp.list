@@ -43,16 +43,6 @@ DOMAIN-SUFFIX,brightcove.com
 # Radiko
 DOMAIN-SUFFIX,radiko.jp
 
-# Asobi-Store
-DOMAIN-SUFFIX,asobistore.jp
-DOMAIN-SUFFIX,bn-ent.net
-DOMAIN-SUFFIX,bandainamcoid.com
-
-# Asobistage
-DOMAIN-KEYWORD,lalabit
-#DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,asobistage.asobistore.jp
-
 # Others
 DOMAIN-SUFFIX,kazumi386.org
 DOMAIN-KEYWORD,2chan

@@ -1,0 +1,9 @@
+# Asobi-Store
+DOMAIN-SUFFIX,asobistore.jp
+DOMAIN-SUFFIX,bn-ent.net
+DOMAIN-SUFFIX,bandainamcoid.com
+
+# Asobistage
+DOMAIN-KEYWORD,lalabit
+#DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,asobistage.asobistore.jp
