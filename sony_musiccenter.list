@@ -1,10 +1,12 @@
 #DOMAIN-SUFFIX,sony.net
 
 # Firmware Update
+DOMAIN-SUFFIX,update.sony.net
 DOMAIN-SUFFIX,info.update.sony.net
 
 # Music Center
 DOMAIN-SUFFIX,ndmdhs.com
-DOMAIN-SUFFIX,bdcore-apr-lb.bda.ndmdhs.com
+#DOMAIN-SUFFIX,api.iac.meta.ndmdhs.com
+#DOMAIN-SUFFIX,bdcore-apr-lb.bda.ndmdhs.com
+#DOMAIN-SUFFIX,musiccenter-cdn.meta.ndmdhs.com
 DOMAIN-SUFFIX,service.signalr.net
-DOMAIN-SUFFIX,musiccenter-cdn.meta.ndmdhs.com
