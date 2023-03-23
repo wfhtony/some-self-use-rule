@@ -1,9 +1,13 @@
 USER-AGENT,DMM*
 DOMAIN-SUFFIX,dmm.com
-DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dmm-extension.com
 DOMAIN-SUFFIX,dmm.hk
-DOMAIN-SUFFIX,doujin-assets.dmm.co.jp
+
+#FANZA
+DOMAIN-SUFFIX,dmm.co.jp
+#DOMAIN-SUFFIX,doujin-assets.dmm.co.jp
+#DOMAIN-SUFFIX,pics.dmm.co.jp
+#DOMAIN-SUFFIX,cdn.pics.games.dmm.co.jp
 
 #DMM_TV
 DOMAIN-SUFFIX,beacon.dmm.com
@@ -15,4 +19,3 @@ DOMAIN-SUFFIX,awsimgsrc.dmm.com
 DOMAIN-SUFFIX,d25ifn8wrt1hcl.cloudfront.net
 DOMAIN-SUFFIX,vod-plain.dmm.com
 DOMAIN-SUFFIX,prd.api.thap.dmm.com
-DOMAIN-SUFFIX,d25ifn8wrt1hcl.cloudfront.net
