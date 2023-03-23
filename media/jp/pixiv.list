@@ -1,10 +1,12 @@
 USER-AGENT,pixiv*
+DOMAIN-KEYWORD,pixiv
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,s.pximg.net
 DOMAIN-SUFFIX,i.pximg.net
 
 # fanbox
+DOMAIN-KEYWORD,fanbox
 DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,api.fanbox.cc
 DOMAIN-SUFFIX,downloads.fanbox.cc

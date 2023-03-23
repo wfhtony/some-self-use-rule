@@ -1,0 +1,17 @@
+DOMAIN-KEYWORD,rakuten
+DOMAIN-SUFFIX,rakuten.co.jp
+DOMAIN-SUFFIX,rakuten.net
+DOMAIN-SUFFIX,rakuten-static.com
+DOMAIN-SUFFIX,jp.rakuten-static.com
+DOMAIN-SUFFIX,r10s.jp
+DOMAIN-SUFFIX,r10.to
+DOMAIN-SUFFIX,rakuten-bank.co.jp
+DOMAIN-SUFFIX,rakuten-card.co.jp
+DOMAIN-SUFFIX,ebis.ne.jp
+DOMAIN-SUFFIX,rebates.jp
+
+#kobo
+DOMAIN-KEYWORD,kobo
+DOMAIN-SUFFIX,kobo.com
+DOMAIN-SUFFIX,kobobooks.com
+#DOMAIN-SUFFIX,api.kobobooks.com
