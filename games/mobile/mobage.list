@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,mobage.jp
 #imascg
 DOMAIN-SUFFIX,sp.pf.mbga.jp
 DOMAIN-SUFFIX,sp.pf-img-a.mbga.jp
+## Bandai_Channel
 #DOMAIN-SUFFIX,manifest.prod.boltdns.net
 #DOMAIN-SUFFIX,edge.api.brightcove.com
 #DOMAIN-SUFFIX,bcbandainamcoct-a.akamaihd.net
