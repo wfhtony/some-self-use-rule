@@ -13,5 +13,14 @@ DOMAIN-SUFFIX,rebates.jp
 #kobo
 DOMAIN-KEYWORD,kobo
 DOMAIN-SUFFIX,kobo.com
+#DOMAIN-SUFFIX,storeapi.kobo.com
+#DOMAIN-SUFFIX,authorize.kobo.com
+#DOMAIN-SUFFIX,readingservices.kobo.com
+#DOMAIN-SUFFIX,storedownloads.kobo.com
 DOMAIN-SUFFIX,kobobooks.com
 #DOMAIN-SUFFIX,api.kobobooks.com
+#DOMAIN-SUFFIX,auth.kobobooks.com
+#DOMAIN-SUFFIX,api.kobobooks.com
+#DOMAIN-SUFFIX,api.kobobooks.com
+DOMAIN-SUFFIX,kbget1-a.akamaihd.net
+DOMAIN-SUFFIX,kbimages1-a.akamaihd.net
