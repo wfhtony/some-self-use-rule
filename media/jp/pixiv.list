@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,s.pximg.net
 DOMAIN-SUFFIX,i.pximg.net
+#DOMAIN-SUFFIX,payment.pixiv.net
 
 # fanbox
 DOMAIN-KEYWORD,fanbox
@@ -12,3 +13,10 @@ DOMAIN-SUFFIX,api.fanbox.cc
 DOMAIN-SUFFIX,downloads.fanbox.cc
 DOMAIN-SUFFIX,pixiv.pximg.net
 DOMAIN-SUFFIX,zn3vyi2t0sf6tvuim-pixiv.siteintercept.qualtrics.com
+
+# booth
+DOMAIN-KEYWORD,booth
+DOMAIN-SUFFIX,booth.pm
+#DOMAIN-SUFFIX,asset.booth.pm
+DOMAIN-SUFFIX,booth.pximg.net
+#DOMAIN-SUFFIX,checkout.booth.pm
