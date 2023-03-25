@@ -1,0 +1,8 @@
+#rockstar
+DOMAIN,gamedownloads-rockstargames-com.akamaized.net
+
+#bethesda
+DOMAIN,download.cdp.bethesda.net
+
+#riot
+DOMAIN-SUFFIX,dyn.riotcdn.net
