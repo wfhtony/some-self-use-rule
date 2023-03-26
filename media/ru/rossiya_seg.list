@@ -1,0 +1,24 @@
+#DOMAIN-KEYWORD,xn--c1acbl2abdlkab1og
+DOMAIN-SUFFIX,rossiyasegodnya.com
+
+#РИА Новости
+DOMAIN-SUFFIX,ria.ru
+DOMAIN-SUFFIX,smi2.net
+
+#Sputnik
+DOMAIN-KEYWORD,sputniknews
+DOMAIN-KEYWORD,sputnik
+DOMAIN-SUFFIX,sputniknews.com
+DOMAIN-SUFFIX,snanews.de
+#DOMAIN-SUFFIX,sputnik.by
+#DOMAIN-SUFFIX,sputnikportal.rs
+DOMAIN-SUFFIX,iubenda.com
+
+#ПРАЙМ
+DOMAIN-SUFFIX,1prime.ru
+
+#inИноСМИ
+DOMAIN-SUFFIX,inosmi.ru
+
+#Arctic.ru
+DOMAIN-SUFFIX,arctic.ru
