@@ -1,0 +1,9 @@
+#PS4
+DOMAIN-SUFFIX,gs2.ww.prod.dl.playstation.net
+
+#PS5
+DOMAIN-SUFFIX,gst.prod.dl.playstation.net
+
+#Update
+DOMAIN-SUFFIX,ps4.update.playstation.net
+DOMAIN-SUFFIX,ps5.update.playstation.net

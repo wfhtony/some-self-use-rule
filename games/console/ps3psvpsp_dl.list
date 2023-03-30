@@ -1,0 +1,12 @@
+DOMAIN-SUFFIX,zeus.dl.playstation.net
+
+#patch
+DOMAIN-SUFFIX,gs.ww.np.dl.playstation.net
+
+#trial
+DOMAIN-SUFFIX,ares.dl.playstation.net
+
+#Update
+DOMAIN-SUFFIX,ps3.update.playstation.net
+DOMAIN-SUFFIX,psp.update.playstation.org
+DOMAIN-SUFFIX,psp2.update.playstation.net
