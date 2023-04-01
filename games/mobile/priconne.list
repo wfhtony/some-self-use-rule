@@ -4,11 +4,3 @@ DOMAIN-SUFFIX,wsdgp.games.dmm.com
 DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
 DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net
 DOMAIN-SUFFIX,priconne-redive.jp
-
-#GandMasters
-DOMAIN-KEYWORD,priconne-grandmasters
-DOMAIN-SUFFIX,priconne-grandmasters.jp
-#DOMAIN-SUFFIX,api-cmxegy.prd.app.priconne-grandmasters.jp
-#DOMAIN-SUFFIX,battleengine-cmxegy.prd.app.priconne-grandmasters.jp
-#DOMAIN-SUFFIX,version-yaubrbw5.prd.app.priconne-grandmasters.jp
-DOMAIN-SUFFIX,prd-priconne-grandmasters-hq6jkeih.akamaized.net
