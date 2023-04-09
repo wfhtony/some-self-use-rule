@@ -1,0 +1,13 @@
+DOMAIN-SUFFIX,steamdeck.com
+
+#source_code/firmware
+DOMAIN-SUFFIX,steamos.cloud
+
+## Recovery:
+## https://help.steampowered.com/faqs/view/1B71-EDF2-EB6D-2BB3
+#DOMAIN,steamdeck-images.steamos.cloud
+## Windows_drivers: 
+## https://help.steampowered.com/faqs/view/6121-ECCD-D643-BAA8
+#DOMAIN,steamdeck-packages.steamos.cloud
+## Source_code
+#DOMAIN,gitlab.steamos.cloud
