@@ -1,0 +1,8 @@
+DOMAIN-KEYWORD,hcaptcha
+DOMAIN-SUFFIX,hcaptcha.com
+
+DOMAIN-KEYWORD,arkoselabs
+DOMAIN-SUFFIX,arkoselabs.com
+#DOMAIN,client-api.arkoselabs.com
+
+DOMAIN-SUFFIX,challenges.cloudflare.com
