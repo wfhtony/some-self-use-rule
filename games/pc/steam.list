@@ -14,6 +14,9 @@ DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN,steamcommunity-a.akamaihd.net
 
+#mobile
+DOMAIN,steammobile.akamaized.net
+
 #valve
 DOMAIN-SUFFIX,valvesoftware.com
 
