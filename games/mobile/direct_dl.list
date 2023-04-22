@@ -3,6 +3,12 @@
 DOMAIN-SUFFIX,ark-jp-static-online.yo-star.com
 
 ##mihoyo
+DOMAIN-SUFFIX,hoyoverse.com
+#DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,hoyo.link
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,nijigengames.com
+
 #genshin
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,wsdvs.com
