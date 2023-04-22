@@ -13,9 +13,10 @@ DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,nijigengames.com
 
 #genshin
-DOMAIN-KEYWORD,yuanshen
+#DOMAIN-SUFFIX,genshin.hoyoverse.com
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,wsdvs.com
+#DOMAIN-SUFFIX,autopatchhk.yuanshen.com
 #DOMAIN-SUFFIX,autopatchhk.yuanshen.com.wsdvs.com
 #DOMAIN-SUFFIX,a1881.v.akamai.net
 
