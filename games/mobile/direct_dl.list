@@ -1,3 +1,10 @@
 ##Yostar
 #arknights_jp
 DOMAIN-SUFFIX,ark-jp-static-online.yo-star.com
+
+##mihoyo
+#genshin
+DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,wsdvs.com
+#DOMAIN-SUFFIX,autopatchhk.yuanshen.com.wsdvs.com
+#DOMAIN-SUFFIX,a1881.v.akamai.net
