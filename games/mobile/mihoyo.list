@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,api-global-takumi-static.mihoyo.com
 DOMAIN-SUFFIX,log-upload.mihoyo.com
 DOMAIN-SUFFIX,log-upload-os.mihoyo.com
 DOMAIN-SUFFIX,devlog-upload.mihoyo.com
+DOMAIN-SUFFIX,sdk.hoyoverse.com
 DOMAIN-SUFFIX,sdk-os-static.hoyoverse.com
 DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 
