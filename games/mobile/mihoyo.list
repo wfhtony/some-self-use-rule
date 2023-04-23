@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,webstatic.hoyoverse.com
 DOMAIN-SUFFIX,webstatic-sea.hoyoverse.com
 
 #genshin
+DOMAIN-SUFFIX,genshin.hoyoverse.com
 DOMAIN-SUFFIX,api-beta-sdk.mihoyo.com
 DOMAIN-SUFFIX,api-beta-sdk-os.mihoyo.com
 DOMAIN-SUFFIX,hk4e-sdk.mihoyo.com
