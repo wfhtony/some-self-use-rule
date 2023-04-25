@@ -87,7 +87,7 @@ DOMAIN-SUFFIX,nebulance.io
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,npupt.com
 DOMAIN-SUFFIX,nwsuaf6.edu.cn
-DOMAIN-SUFFIX,nyaa.tracker.wf
+#DOMAIN-SUFFIX,nyaa.tracker.wf
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,oppaiti.me
 DOMAIN-SUFFIX,orpheus.network
