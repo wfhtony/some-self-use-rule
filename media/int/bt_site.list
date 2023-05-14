@@ -26,3 +26,6 @@ DOMAIN-SUFFIX,bbs.acgnx.se
 
 #acg.rip
 DOMAIN-SUFFIX,acg.rip
+
+#rutracker
+DOMAIN-SUFFIX,rutracker.org
