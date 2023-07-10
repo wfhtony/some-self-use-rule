@@ -1,5 +1,6 @@
 DOMAIN-KEYWORD,misskey
 DOMAIN-SUFFIX,misskey.io
+DOMAIN-SUFFIX,misskey.cf
 
 #misskey.cloud
 DOMAIN-SUFFIX,misskey.cloud
