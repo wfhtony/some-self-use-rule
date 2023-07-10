@@ -1,6 +1,7 @@
 DOMAIN-KEYWORD,misskey
 DOMAIN-SUFFIX,misskey.io
 DOMAIN-SUFFIX,misskey.cf
+DOMAIN-SUFFIX,xn--931a.moe
 
 #misskey.cloud
 DOMAIN-SUFFIX,misskey.cloud
