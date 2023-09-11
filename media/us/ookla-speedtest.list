@@ -1,0 +1,9 @@
+#speedtest.net
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,cdnst.net
+DOMAIN-SUFFIX,wistia.com
+
+#ookla
+#這個應該沒有必要走直連
+#DOMAIN-SUFFIX,ookla.com
+#DOMAIN-SUFFIX,ziffstatic.com

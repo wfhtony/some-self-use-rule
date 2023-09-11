@@ -1,0 +1,4 @@
+DOMAIN,fast.com
+
+#測試用的服務器+域名和NETFLIX播放用服務器+域名一致，僅路徑加一層「/speedtest/」
+#DOMAIN-KEYWORD,1.oca.nflxvideo.net/speedtest
