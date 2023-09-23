@@ -1,6 +1,6 @@
 #speedtest.net
 DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,cdnst.net
+#DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,wistia.com
 
 #ookla
