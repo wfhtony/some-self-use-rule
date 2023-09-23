@@ -1,1 +1,5 @@
 DOMAIN,gog-cdn-lumen.secure2.footprint.net
+DOMAIN,gog-cdn-fastly.gog.com
+
+#cyberpunk2077
+DOMAIN,gog-cdn-fastly-cp77.gog.com
