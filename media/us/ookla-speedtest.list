@@ -2,6 +2,8 @@
 DOMAIN-SUFFIX,speedtest.net
 #DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,wistia.com
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-KEYWORD,ookla-speedtests
 
 #ookla
 #這個應該沒有必要走直連
