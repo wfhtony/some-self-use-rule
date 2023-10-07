@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,i.pximg.net
 
 # fanbox
 DOMAIN-KEYWORD,fanbox
+DOMAIN,www.fanbox.cc
 DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,api.fanbox.cc
 DOMAIN-SUFFIX,downloads.fanbox.cc
