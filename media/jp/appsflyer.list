@@ -1,0 +1,3 @@
+#只保留非廣告用業務
+DOMAIN-SUFFIX,register.appsflyer.com
+DOMAIN-SUFFIX,inapps.appsflyer.com
