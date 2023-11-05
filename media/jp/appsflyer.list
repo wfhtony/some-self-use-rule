@@ -1,3 +1,3 @@
-#只保留非廣告用業務
-DOMAIN-SUFFIX,register.appsflyer.com
-DOMAIN-SUFFIX,inapps.appsflyer.com
+#只保留部分遊戲登錄時會用到的非廣告用業務？
+#DOMAIN-SUFFIX,register.appsflyer.com
+#DOMAIN-SUFFIX,inapps.appsflyer.com
