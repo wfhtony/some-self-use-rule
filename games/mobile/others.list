@@ -1,6 +1,7 @@
 # Nikke-JP
 DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,intlgame.com
+IP-CIDR,198.18.9.0/24,no-resolve
 
 # GameWith
 DOMAIN-SUFFIX,gamewith.jp
