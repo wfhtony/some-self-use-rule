@@ -1,7 +1,7 @@
 DOMAIN-SUFFIX,uma.komoejoy.com
-DOMAIN-SUFFIX,log-collect.komoejoy.com
-DOMAIN-SUFFIX,line3-sdk-login.komoejoy.com
-DOMAIN-SUFFIX,line1-gameinfoc.komoejoy.com
-DOMAIN-SUFFIX,line1-realtime-api.komoejoy.com
-DOMAIN-SUFFIX,l11-game-support.komoejoy.com
-DOMAIN-SUFFIX,l11-prod-all-gs-uma.komoejoy.com
+#DOMAIN-SUFFIX,log-collect.komoejoy.com
+#DOMAIN-SUFFIX,line3-sdk-login.komoejoy.com
+#DOMAIN-SUFFIX,line1-gameinfoc.komoejoy.com
+#DOMAIN-SUFFIX,line1-realtime-api.komoejoy.com
+#DOMAIN-SUFFIX,l11-game-support.komoejoy.com
+#DOMAIN-SUFFIX,l11-prod-all-gs-uma.komoejoy.com
