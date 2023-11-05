@@ -1,3 +1,7 @@
+DOMAIN-SUFFIX,heaven-burns-red.com
+
+#api
 DOMAIN-SUFFIX,api.heaven-burns-red.wfs.games
-DOMAIN-SUFFIX,gl-payment.gree-apps.net
+
+#DL
 #DOMAIN-SUFFIX,heaven-burns-red-assets.akamaized.net
