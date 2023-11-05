@@ -1,2 +1,5 @@
 DOMAIN-SUFFIX,another-eden.jp
 DOMAIN-SUFFIX,api.another-eden.jp
+
+#DL
+#DOMAIN-SUFFIX,cdn-another-eden.gree.net

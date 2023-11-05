@@ -30,5 +30,8 @@ DOMAIN-SUFFIX,l11-prod-patch-uma.komoejoy.com
 DOMAIN-SUFFIX,l12-prod-patch-uma.komoejoy.com
 DOMAIN-SUFFIX,komoejoy.com
 
+#another_eden
+DOMAIN-SUFFIX,cdn-another-eden.gree.net
+
 #heaven_burns_red
 DOMAIN-SUFFIX,heaven-burns-red-assets.akamaized.net
