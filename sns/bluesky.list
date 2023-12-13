@@ -1,0 +1,13 @@
+# Bluesky Social
+DOMAIN-KEYWORD,bsky
+DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.social
+DOMAIN-SUFFIX,bsky.network
+
+# Bluesky PBLLC
+DOMAIN-KEYWORD,blueskyweb
+DOMAIN-SUFFIX,blueskyweb.org
+
+# AT Protocol
+DOMAIN-KEYWORD,atproto
+DOMAIN-SUFFIX,atproto.com
