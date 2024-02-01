@@ -19,7 +19,6 @@ DOMAIN,xz.pphimalayanrt.com
 DOMAIN,lv.queniujq.cn
 
 # https://bgp.he.net/AS32590#_prefixes
-IP-CIDR,173.245.48.0/20,no-resolve
 IP-CIDR,45.121.184.0/24,no-resolve
 IP-CIDR,103.10.124.0/24,no-resolve
 IP-CIDR,103.10.125.0/24,no-resolve
