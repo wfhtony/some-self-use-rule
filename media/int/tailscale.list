@@ -2,3 +2,7 @@ DOMAIN-KEYWORD,tailscale
 PROCESS-NAME,tailscaled
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tailscale.io
+
+#如果有用FakeIP的話，建議將以下域名添加至「fake-ip-filter」中。
+DOMAIN-SUFFIX,controlplane.tailscale.com
+DOMAIN-SUFFIX,log.tailscale.io

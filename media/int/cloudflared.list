@@ -1,1 +1,5 @@
 PROCESS-NAME,cloudflared
+
+#如果有用FakeIP的話，建議將以下域名添加至「fake-ip-filter」中。
+DOMAIN-SUFFIX,cftunnel.com
+DOMAIN-SUFFIX,argotunnel.com
