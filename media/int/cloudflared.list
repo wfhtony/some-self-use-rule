@@ -1,5 +1,14 @@
 PROCESS-NAME,cloudflared
 
-#如果有用FakeIP的話，建議將以下域名添加至「fake-ip-filter」中。
+# 如果有用FakeIP的話，建議將以下域名添加至「fake-ip-filter」中。
+# https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/deploy-tunnels/tunnel-with-firewall/
 DOMAIN-SUFFIX,cftunnel.com
+#DOMAIN,h2.cftunnel.com
+#DOMAIN,quic.cftunnel.com
 DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,cloudflareaccess.com
+DOMAIN,pqtunnels.cloudflareresearch.com
+
+# 升級用，應該沒必要加入filter。
+#DOMAIN,api.cloudflare.com
+#DOMAIN,updates.cloudflare.com

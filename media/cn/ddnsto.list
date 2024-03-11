@@ -1,0 +1,4 @@
+# 如果有用FakeIP的話，建議將以下域名添加至「fake-ip-filter」中。
+DOMAIN-SUFFIX,kooldns.cn
+DOMAIN-SUFFIX,tocmcc.cn
+DOMAIN-SUFFIX,ddnsto.com
