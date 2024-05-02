@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,onesignal.com
 DOMAIN-SUFFIX,animehd.club
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,willfonk.com
-DOMAIN-SUFFIX,jp-primehome.com
+#DOMAIN-SUFFIX,jp-primehome.com
 DOMAIN-SUFFIX,mov3.co
 DOMAIN-SUFFIX,vthanhnetwork.com
 #DOMAIN-SUFFIX,nekocdn.xyz
