@@ -1,3 +1,20 @@
-# 可能需要新加坡或香港IP
+# 可能需要新加坡（東南亞）或香港IP
 DOMAIN-SUFFIX,jp-primehome.com
+#142.171.3.10:5002
+IP-CIDR,142.171.3.10/32,no-resolve
+#142.171.16.226:5002
+IP-CIDR,142.171.16.226/32,no-resolve
+#142.171.31.242:5002
+IP-CIDR,142.171.31.242/32,no-resolve
+#103.36.32.14:5002
+IP-CIDR,103.36.32.14/32,no-resolve
+#103.197.59.108:5002
+IP-CIDR,103.197.59.108/32,no-resolve
+
+#IP-CIDR,142.171.3.0/24,no-resolve
+#IP-CIDR,142.171.16.0/24,no-resolve
+#IP-CIDR,142.171.31.0/24,no-resolve
+#IP-CIDR,103.36.32.0/24,no-resolve
+#IP-CIDR,103.197.59.0/24,no-resolve
+
 DOMAIN-SUFFIX,nekocdn.xyz
