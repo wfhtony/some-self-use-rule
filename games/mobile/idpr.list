@@ -1,2 +1,7 @@
 #game.qualiarts.idolypride
-DOMAIN-SUFFIX,d2ilil7yh5oi1v.cloudfront.net
+DOMAIN-SUFFIX,game-idolypride.jp
+#DOMAIN-SUFFIX,api.game-idolypride.jp
+#DOMAIN-SUFFIX,climaster.game-idolypride.jp
+
+#Resource_DL（可直連下載）
+#DOMAIN-SUFFIX,d2ilil7yh5oi1v.cloudfront.net
