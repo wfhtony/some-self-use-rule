@@ -3,5 +3,5 @@ DOMAIN-SUFFIX,game-idolypride.jp
 #DOMAIN-SUFFIX,api.game-idolypride.jp
 #DOMAIN-SUFFIX,climaster.game-idolypride.jp
 
-#Resource_DL（可直連下載）
-#DOMAIN-SUFFIX,d2ilil7yh5oi1v.cloudfront.net
+#Resource_DL（可直連下載，但短時間內下載速度的提升程度不理想）
+DOMAIN-SUFFIX,d2ilil7yh5oi1v.cloudfront.net
