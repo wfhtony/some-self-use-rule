@@ -36,4 +36,7 @@ DOMAIN-SUFFIX,cdn-another-eden.gree.net
 DOMAIN-SUFFIX,heaven-burns-red-assets.akamaized.net
 
 #idolypride
-#DOMAIN-SUFFIX,d2ilil7yh5oi1v.cloudfront.net
+#DOMAIN,d2ilil7yh5oi1v.cloudfront.net
+
+#gkmas
+DOMAIN,object.asset.game-gakuen-idolmaster.jp
