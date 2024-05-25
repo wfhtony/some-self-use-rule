@@ -1,0 +1,25 @@
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,synologydownload.com
+DOMAIN-SUFFIX,quickconnect.to
+
+DOMAIN-SUFFIX,insight.synology.com
+
+#Synology DDNS
+DOMAIN-SUFFIX,ddns.synology.com
+DOMAIN-SUFFIX,synology.me
+DOMAIN-SUFFIX,diskstation.me
+DOMAIN-SUFFIX,i234.me
+DOMAIN-SUFFIX,dscloud.biz
+DOMAIN-SUFFIX,dscloud.me
+DOMAIN-SUFFIX,dscloud.mobi
+DOMAIN-SUFFIX,myds.me
+DOMAIN-SUFFIX,dsmynas.com
+DOMAIN-SUFFIX,dsmynas.net
+DOMAIN-SUFFIX,dsmynas.org
+DOMAIN-SUFFIX,familyds.com
+DOMAIN-SUFFIX,familyds.net
+DOMAIN-SUFFIX,familyds.org
+
+#礦神SPK
+DOMAIN-SUFFIX,imnks.com
+#DOMAIN-SUFFIX,pan.wo.cn
