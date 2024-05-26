@@ -1,0 +1,13 @@
+DOMAIN-SUFFIX,voanews.com
+DOMAIN-SUFFIX,voa.gov
+DOMAIN-SUFFIX,voa24.news
+DOMAIN-SUFFIX,insidevoa.com
+
+#Reagion_Section
+DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,voacantonese.com
+DOMAIN-SUFFIX,voaafrica.com
+DOMAIN-SUFFIX,voatibetan.com
+
+#USAGM
+DOMAIN-SUFFIX,usagm.gov
