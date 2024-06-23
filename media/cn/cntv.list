@@ -1,7 +1,6 @@
 DOMAIN-SUFFIX,jdshipin.com
 DOMAIN-SUFFIX,fanmingming.com
 DOMAIN-SUFFIX,0472.org
-DOMAIN-SUFFIX,dnsany.com
 
 #CCTV
 DOMAIN-SUFFIX,cctv.cn
@@ -11,6 +10,13 @@ IP-CIDR,183.206.0.0/15,no-resolve
 #CHINAMOBILE/MIGU
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,chinamobile.com
+#pixman用
+DOMAIN-SUFFIX,dnsany.com
+# 注意：如果走的是fakeip模式，請在「fake-ip-filter」（結構見下）中加上以下內容，否則可能會導致轉發服務器無法獲取/返回真實IP：
+# -----
+# dns:
+#   fake-ip-filter:
+#     - '+.dnsany.com'
 
 #GITV/TPTV
 DOMAIN-SUFFIX,gitv.tv
