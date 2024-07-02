@@ -12,8 +12,10 @@ DOMAIN-SUFFIX,api-account-os.hoyoverse.com
 DOMAIN-SUFFIX,sdk.hoyoverse.com
 DOMAIN-SUFFIX,sdk-os-static.hoyoverse.com
 DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
 DOMAIN-SUFFIX,sg-public-data-api.hoyoverse.com
+DOMAIN-SUFFIX,sg-announcement-api.hoyoverse.com
 DOMAIN-SUFFIX,abtest-api-data-sg.hoyoverse.com
 DOMAIN-SUFFIX,webstatic.hoyoverse.com
 DOMAIN-SUFFIX,webstatic-sea.hoyoverse.com
@@ -51,3 +53,10 @@ DOMAIN-SUFFIX,globaldp-prod-os01.starrails.com
 DOMAIN-SUFFIX,prod-official-cht-dp01.starrails.com
 DOMAIN-SUFFIX,prod-official-asia-dp01.starrails.com
 DOMAIN-SUFFIX,prod-official-eur-dp01.starrails.com
+
+#zzz
+DOMAIN-SUFFIX,zenlesszonezero.com
+DOMAIN-SUFFIX,prod-gf-jp.zenlesszonezero.com
+#DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com
+DOMAIN-SUFFIX,nap-sdk-os-static.hoyoverse.com
+DOMAIN-SUFFIX,zzz-log-upload-os.hoyoverse.com
