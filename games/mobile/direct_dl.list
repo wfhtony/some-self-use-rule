@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,autopatchcn.bhsr.com
 #zzz
 DOMAIN-SUFFIX,juequling.com
 DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com
+#↑可能需要用其他米記遊戲調用一次下載才能調用大陸CDN？
 DOMAIN-SUFFIX,autopatchhk.zenlesszonezero.com
 DOMAIN-SUFFIX,autopatchcn.juequling.com
 
