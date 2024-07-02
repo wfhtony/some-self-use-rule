@@ -10,23 +10,34 @@ DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,hoyo.link
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,nijigengames.com
+DOMAIN-SUFFIX,download-porter.hoyoverse.com
+DOMAIN-SUFFIX,autopatchcn.bhsr.com
 
 #genshin
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,wsdvs.com
+DOMAIN-SUFFIX,autopatchos.yuanshen.com
 DOMAIN-SUFFIX,autopatchhk.yuanshen.com
+DOMAIN-SUFFIX,autopatchcn.yuanshen.com
 #DOMAIN-SUFFIX,autopatchhk.yuanshen.com.wsdvs.com
 #DOMAIN-SUFFIX,a1881.v.akamai.net
 
 #houkai
 DOMAIN-SUFFIX,benghuai.com
+DOMAIN-SUFFIX,bh3.com
 
 #star_rail
-DOMAIN-SUFFIX,starrails.com
+#DOMAIN-SUFFIX,starrails.com
+DOMAIN-SUFFIX,bhsr.com
 DOMAIN-SUFFIX,autopatchos.starrails.com
+DOMAIN-SUFFIX,autopatchhk.starrails.com
+DOMAIN-SUFFIX,autopatchcn.bhsr.com
 
 #zzz
+DOMAIN-SUFFIX,juequling.com
 DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com
+DOMAIN-SUFFIX,autopatchhk.zenlesszonezero.com
+DOMAIN-SUFFIX,autopatchcn.juequling.com
 
 #uma_komoe
 DOMAIN-SUFFIX,l11-prod-patch-uma.komoejoy.com
