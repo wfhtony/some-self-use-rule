@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,prod-official-eur-dp01.starrails.com
 
 #zzz
 DOMAIN-SUFFIX,zenlesszonezero.com
+DOMAIN-SUFFIX,globaldp-prod-os01.zenlesszonezero.com
 DOMAIN-SUFFIX,prod-gf-jp.zenlesszonezero.com
 #DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com
 DOMAIN-SUFFIX,nap-sdk-os-static.hoyoverse.com
