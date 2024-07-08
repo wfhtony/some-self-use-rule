@@ -11,15 +11,15 @@ DOMAIN-SUFFIX,hoyo.link
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,nijigengames.com
 DOMAIN-SUFFIX,download-porter.hoyoverse.com
-DOMAIN-SUFFIX,autopatchcn.bhsr.com
 
 #genshin
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,wsdvs.com
-DOMAIN-SUFFIX,autopatchos.yuanshen.com
 DOMAIN-SUFFIX,autopatchhk.yuanshen.com
-DOMAIN-SUFFIX,autopatchcn.yuanshen.com
 #DOMAIN-SUFFIX,autopatchhk.yuanshen.com.wsdvs.com
+#DOMAIN-SUFFIX,autopatchhk.yuanshen.com.akamaized.net
+#DOMAIN-SUFFIX,autopatchhk.yuanshen.com.cy-isp.com
+DOMAIN-SUFFIX,autopatchcn.yuanshen.com
 #DOMAIN-SUFFIX,a1881.v.akamai.net
 
 #houkai
@@ -30,13 +30,22 @@ DOMAIN-SUFFIX,bh3.com
 #DOMAIN-SUFFIX,starrails.com
 DOMAIN-SUFFIX,bhsr.com
 DOMAIN-SUFFIX,autopatchos.starrails.com
-DOMAIN-SUFFIX,autopatchhk.starrails.com
+#DOMAIN-SUFFIX,autopatchos.starrails.com.wsdvs.com
+#DOMAIN-SUFFIX,autopatchos.starrails.com.cdn.dnsv1.com
+#DOMAIN-SUFFIX,autopatchos.starrails.com.akamaized.net
+#DOMAIN-SUFFIX,autopatchos.starrails.com.w.kunlunsl.com
 DOMAIN-SUFFIX,autopatchcn.bhsr.com
 
 #zzz
 DOMAIN-SUFFIX,juequling.com
 DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com
-DOMAIN-SUFFIX,autopatchhk.zenlesszonezero.com
+#DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com.whecloud.com
+#DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com.akamaized.net
+#DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com.w.kunlungem.com
+#DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com.cdn.dnsv1.com
+#DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com.cdn.cloudflare.net
+#DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com.volcgslb.com
+#DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com.cy-isp.com
 DOMAIN-SUFFIX,autopatchcn.juequling.com
 
 #uma_komoe
