@@ -4,9 +4,9 @@ DOMAIN-SUFFIX,ark-jp-static-online.yo-star.com
 
 ##mihoyo
 DOMAIN-KEYWORD,mihoyo
-DOMAIN-KEYWORD,hoyoverse
+#DOMAIN-KEYWORD,hoyoverse
 DOMAIN-SUFFIX,mihoyo.com
-DOMAIN-SUFFIX,hoyoverse.com
+#DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,hoyo.link
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,nijigengames.com
