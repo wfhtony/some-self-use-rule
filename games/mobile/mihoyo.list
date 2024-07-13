@@ -1,4 +1,6 @@
 #General
+DOMAIN-KEYWORD,hoyoverse
+DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,account.mihoyo.com
 DOMAIN-SUFFIX,gameapi-account.mihoyo.com
 DOMAIN-SUFFIX,minor-api.mihoyo.com
