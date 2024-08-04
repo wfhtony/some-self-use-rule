@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,apkmirror.com
+
+#DL
+#apkmirror用的是CF的R2存儲，不能下需要調整CF那邊的規則
+#DOMAIN-SUFFIX,r2.cloudflarestorage.com
