@@ -73,4 +73,7 @@ DOMAIN,object.asset.game-gakuen-idolmaster.jp
 
 #wuthering_wave
 DOMAIN,cdn-huoshan-hw-mc.aki-game.net
+#海外CDN
 DOMAIN,cdn-qcloud-hw-mc.aki-game.net
+DOMAIN,cdn-akamai-hw-mc.aki-game.net
+DOMAIN,cdn-aws-hw-mc.aki-game.net
