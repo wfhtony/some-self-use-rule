@@ -65,19 +65,6 @@ DOMAIN-SUFFIX,cdn-another-eden.gree.net
 #heaven_burns_red
 DOMAIN-SUFFIX,heaven-burns-red-assets.akamaized.net
 
-#idolypride
-#DOMAIN,d2ilil7yh5oi1v.cloudfront.net
-
-#gkmas
-DOMAIN,object.asset.game-gakuen-idolmaster.jp
-
 #wuthering_wave
 DOMAIN,cdn-huoshan-hw-mc.aki-game.net
 DOMAIN,hw-pcdownload-huoshan.aki-game.net
-#海外CDN
-DOMAIN,cdn-qcloud-hw-mc.aki-game.net
-DOMAIN,cdn-akamai-hw-mc.aki-game.net
-DOMAIN,cdn-aws-hw-mc.aki-game.net
-DOMAIN,hw-pcdownload-qcloud.aki-game.net
-DOMAIN,hw-pcdownload-akamai.aki-game.net
-DOMAIN,hw-pcdownload-aws.aki-game.net
