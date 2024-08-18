@@ -18,6 +18,8 @@ DOMAIN,steamstatic.com.8686c.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN,lv.queniujq.cn
 
+DOMAIN,gstore.val.manlaxy.com
+
 # https://bgp.he.net/AS32590#_prefixes
 IP-CIDR,45.121.184.0/24,no-resolve
 IP-CIDR,103.10.124.0/24,no-resolve
