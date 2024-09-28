@@ -6,6 +6,11 @@ DOMAIN-SUFFIX,brightcove.com
 # Radiko
 DOMAIN-SUFFIX,radiko.jp
 
+# microCMS
+DOMAIN-SUFFIX,microcms.io
+DOMAIN-SUFFIX,microcms.co.jp
+DOMAIN-SUFFIX,microcms-assets.io
+
 # Others
 DOMAIN-KEYWORD,2chan
 DOMAIN-SUFFIX,2chan.net

@@ -1,0 +1,18 @@
+DOMAIN,aod.itunes.apple.com
+DOMAIN,streamingaudio.itunes.apple.com
+
+# HK_CDN
+IP-CIDR,17.253.85.0/24,no-resolve
+IP-CIDR,17.253.87.0/24,no-resolve
+
+# TW_CDN
+IP-CIDR,17.253.117.0/24,no-resolve
+
+# JP_CDN
+IP-CIDR,17.253.69.0/24,no-resolve
+IP-CIDR,17.253.71.0/24,no-resolve
+IP-CIDR,17.253.75.0/24,no-resolve
+
+# Apple_CN
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,apple.com.cn
