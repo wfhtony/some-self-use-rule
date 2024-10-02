@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,blobstore.apple.com
 # AppleTV
 DOMAIN,vod-ap-amt.tv.apple.com
 DOMAIN,hls-amt.itunes.apple.com
+DOMAIN,play.itunes.apple.com
 
 # HK_CDN
 IP-CIDR,17.253.85.0/24,no-resolve
