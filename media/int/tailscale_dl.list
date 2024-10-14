@@ -1,0 +1,2 @@
+# 如下載tailscale有困難，請在規則中加入這一條目
+DOMAIN,dl.tailscale.com
