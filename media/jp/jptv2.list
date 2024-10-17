@@ -29,4 +29,6 @@ IP-CIDR,142.171.31.242/32,no-resolve
 #IP-CIDR,103.36.32.0/24,no-resolve
 #IP-CIDR,103.197.59.0/24,no-resolve
 
+DOMAIN-SUFFIX,vthanhnetwork.com
 DOMAIN-SUFFIX,nekocdn.xyz
+DOMAIN-SUFFIX,djtmewibu.com
