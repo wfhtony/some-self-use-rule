@@ -2,6 +2,9 @@
 #DL
 DOMAIN-SUFFIX,zeus.dl.playstation.net
 
+#PSPlus_Cloud
+DOMAIN-SUFFIX,ubstorage01.ww.np.community.playstation.net
+
 #patch
 DOMAIN-SUFFIX,gs.ww.np.dl.playstation.net
 
