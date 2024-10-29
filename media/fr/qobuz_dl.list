@@ -2,6 +2,6 @@
 DOMAIN-SUFFIX,streaming-qobuz-std.akamaized.net
 DOMAIN-SUFFIX,streaming-qobuz-sec.akamaized.net
 
-#DL
-DOMAIN-SUFFIX,download.qobuz.com
-DOMAIN-SUFFIX,download-v2.qobuz.com
+#DL，這個網段是被GFW關照中的。
+#DOMAIN-SUFFIX,download.qobuz.com
+#DOMAIN-SUFFIX,download-v2.qobuz.com

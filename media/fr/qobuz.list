@@ -1,3 +1,7 @@
 DOMAIN-KEYWORD,qobuz
 DOMAIN-SUFFIX,qobuz.com
 #DOMAIN-SUFFIX,streaming-qobuz-sec.akamaized.net
+
+#DL
+DOMAIN-SUFFIX,download.qobuz.com
+DOMAIN-SUFFIX,download-v2.qobuz.com
