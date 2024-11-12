@@ -12,3 +12,12 @@ DOMAIN-SUFFIX,ereg.wip3.adobe.com
 DOMAIN-SUFFIX,activate-sea.adobe.com
 DOMAIN-SUFFIX,wwis-dubc1-vip60.adobe.com
 DOMAIN-SUFFIX,activate-sjc0.adobe.com
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,ic.adobe.io
+DOMAIN-SUFFIX,cc-api-data.adobe.io
+DOMAIN-SUFFIX,cc-api-data-stage.adobe.io
+DOMAIN-SUFFIX,prod.adobegenuine.com
+DOMAIN-SUFFIX,gocart-web-prod-ue1-alb-1461435473.us-east-1.elb.amazonaws.com
+DOMAIN-SUFFIX,prod.cloud.adobe.io
+DOMAIN-SUFFIX,adobestats.io
+DOMAIN-SUFFIX,fp.adobestats.io
