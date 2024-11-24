@@ -2,6 +2,9 @@
 #DL
 DOMAIN-SUFFIX,zeus.dl.playstation.net
 
+#PSN_Video
+DOMAIN-SUFFIX,poseidon.dl.playstation.net
+
 #PSPlus_Cloud
 DOMAIN-SUFFIX,ubstorage01.ww.np.community.playstation.net
 
