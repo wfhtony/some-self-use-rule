@@ -1,2 +1,8 @@
+#CACIT
+DOMAIN-SUFFIX,ac.cn
+DOMAIN-SUFFIX,ict.ac.cn
+DOMAIN-SUFFIX,caict.ac.cn
+DOMAIN-SUFFIX,cnspeedtest.cn
+
 #Yet another speedtest.net clone site.
 DOMAIN-SUFFIX,speedtest.cn
