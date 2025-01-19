@@ -10,3 +10,8 @@ DOMAIN-SUFFIX,levelinfinite.com
 
 #DL
 DOMAIN,cloud.nikke-kr.com
+
+#PC
+DOMAIN-SUFFIX,jupiterlauncher.com
+DOMAIN-SUFFIX,fleetlogd.com
+DOMAIN-SUFFIX,truekex.com
