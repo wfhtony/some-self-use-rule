@@ -1,7 +1,12 @@
 DOMAIN-SUFFIX,nikke-kr.com
+DOMAIN-SUFFIX,nikke-jp.com
+DOMAIN-SUFFIX,nikke-en.com
 DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,iegcom.com
 IP-CIDR,43.152.114.31/32,no-resolve
+
+DOMAIN-SUFFIX,playerinfinite.com
+DOMAIN-SUFFIX,levelinfinite.com
 
 #DL
 DOMAIN,cloud.nikke-kr.com
