@@ -1,11 +1,11 @@
 ## https://github.com/kinnay/NintendoClients/wiki/Server-List
 
 #DL
-DOMAIN-SUFFIX,atum.hac.lp1.d4c.nintendo.net
-DOMAIN-SUFFIX,atum-eda.hac.lp1.d4c.nintendo.net
-DOMAIN-SUFFIX,atum-4ff.hac.lp1.d4c.nintendo.net
-DOMAIN-SUFFIX,nemof.p01.lp1.nemo.srv.nintendo.net
-DOMAIN-SUFFIX,nemof.hac.lp1.nemo.srv.nintendo.net
+DOMAIN,atum.hac.lp1.d4c.nintendo.net
+DOMAIN,atum-eda.hac.lp1.d4c.nintendo.net
+DOMAIN,atum-4ff.hac.lp1.d4c.nintendo.net
+DOMAIN,nemof.p01.lp1.nemo.srv.nintendo.net
+DOMAIN,nemof.hac.lp1.nemo.srv.nintendo.net
 
 #Connection_test
 #NAT_Check
