@@ -1,0 +1,14 @@
+DOMAIN-SUFFIX,ndtv.in
+DOMAIN-SUFFIX,ndtv.com
+DOMAIN-SUFFIX,ndtvprofit.com
+DOMAIN-SUFFIX,ndtvimg.com
+DOMAIN,ndtvod.pc.cdn.bitgravity.com
+
+#akamai
+DOMAIN,ndtv24x7elemarchana.akamaized.net
+DOMAIN,web-ndtv24x7-us.akamaized.net
+DOMAIN,web-ndtv24x7-uk.akamaized.net
+DOMAIN,ndtvregional.akamaized.net
+DOMAIN,ndtvindiaelemarchana.akamaized.net
+DOMAIN,ndtvprofit.akamaized.net
+DOMAIN,web-ndtv-marathi.akamaized.net
