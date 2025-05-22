@@ -56,8 +56,10 @@ DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com
 DOMAIN-SUFFIX,autopatchcn.juequling.com
 
 #uma_komoe
+DOMAIN-KEYWORD,prod-patch-uma
 DOMAIN-SUFFIX,l11-prod-patch-uma.komoejoy.com
 DOMAIN-SUFFIX,l12-prod-patch-uma.komoejoy.com
+DOMAIN-SUFFIX,l16-prod-patch-uma.komoejoy.com
 
 #another_eden
 DOMAIN-SUFFIX,cdn-another-eden.gree.net
