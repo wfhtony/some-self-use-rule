@@ -10,17 +10,21 @@ DOMAIN,nemof.p01.lp1.nemo.srv.nintendo.net
 DOMAIN,nemof.hac.lp1.nemo.srv.nintendo.net
 
 #Connection_test
+DOMAIN,ctest.cdn.nintendo.net
+DOMAIN,ctest.p01.ctest.srv.nintendo.net
 #NAT_Check
 DOMAIN,nncs1-lp1.n.n.srv.nintendo.net
 DOMAIN,nncs2-lp1.n.n.srv.nintendo.net
+DOMAIN,nncs1.p01.lp1.n.n.srv.nintendo.net
+DOMAIN,nncs2.p01.lp1.n.n.srv.nintendo.net
 #NS
-DOMAIN,ctest.cdn.nintendo.net
 DOMAIN,ctest-ul-lp1.cdn.nintendo.net
 DOMAIN,ctest-dl-lp1.cdn.nintendo.net
 DOMAIN,api.hac.lp1.ctest.srv.nintendo.net
 #NS2
 DOMAIN,ctest-ul.p01.lp1.ctest.srv.nintendo.net
 DOMAIN,ctest-dl.p01.lp1.ctest.srv.nintendo.net
+DOMAIN,api.p01.lp1.ctest.srv.nintendo.net
 
 #Save
 #NS
@@ -34,6 +38,7 @@ DOMAIN,lp1.sprofile.srv.nintendo.net
 #NS2
 DOMAIN,storage.p01.lp1.scsi.srv.nintendo.net
 DOMAIN,policy.p01.lp1.scsi.srv.nintendo.net
+DOMAIN,scsi-upload-lp1.s3.us-west-2.amazonaws.com
 
 #System_transfer
 #NS
