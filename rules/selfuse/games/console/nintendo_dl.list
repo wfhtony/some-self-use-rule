@@ -41,6 +41,7 @@ DOMAIN,lp1.sprofile.srv.nintendo.net
 DOMAIN,storage.p01.lp1.scsi.srv.nintendo.net
 DOMAIN,policy.p01.lp1.scsi.srv.nintendo.net
 DOMAIN,scsi-upload-lp1.s3.us-west-2.amazonaws.com
+DOMAIN,scsi-download.lp1.scsi.srv.nintendo.net
 
 #System_transfer
 #NS
@@ -59,3 +60,13 @@ DOMAIN,aqua.hac.lp1.d4c.nintendo.net
 DOMAIN,sun.p01.lp1.d4c.srv.nintendo.net
 DOMAIN,atumn.p01.lp1.d4c.srv.nintendo.net
 DOMAIN,aqua.p01.lp1.d4c.srv.nintendo.net
+
+#Gamechat
+DOMAIN,enishi.p01.lp1.idobata.srv.nintendo.net
+DOMAIN,sebumi.p01.lp1.idobata.srv.nintendo.net
+
+#album_upload
+DOMAIN,api.p01.lp1.nega.srv.nintendo.net
+DOMAIN,receive.p01.lp1.er.srv.nintendo.net
+#以下域名確認被牆，需要host重定向
+#DOMAIN,nega-lp1-upload.s3.us-east-1.amazonaws.com
