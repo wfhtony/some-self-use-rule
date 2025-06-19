@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,stream-link.online
 #hkdvb
 DOMAIN-KEYWORD,hkdvb
 DOMAIN-SUFFIX,hkdvb.com
+
+#freetv(fy)
+DOMAIN-SUFFIX,freetv.top
