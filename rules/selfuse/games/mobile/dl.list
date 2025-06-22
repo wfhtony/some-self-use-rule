@@ -14,3 +14,6 @@ DOMAIN,hw-pcdownload-qcloud.aki-game.net
 DOMAIN,hw-pcdownload-akamai.aki-game.net
 DOMAIN,hw-pcdownload-aws.aki-game.net
 DOMAIN,hw-pcdownload-cf.aki-game.net
+
+#szb_byd (akamai)
+DOMAIN,shadowverse-wb.akamaized.net
