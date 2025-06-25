@@ -13,7 +13,8 @@ DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,steampipe-kr.akamaized.net
 DOMAIN,steampipe-partner.akamaized.net
 DOMAIN,akamai.cdn.steampipe.steamcontent.com
-#deck
+# deck
+# https://steamdeck-images.steamos.cloud/steamdeck/
 DOMAIN,steamdeck-images.steamos.cloud
 
 #google/anycast
