@@ -1,3 +1,5 @@
 DOMAIN-SUFFIX,umamusume.com
-
 DOMAIN,api.games.umamusume.com
+DOMAIN,webview.games.umamusume.com
+
+#DOMAIN,assets-umamusume-en.akamaized.net
