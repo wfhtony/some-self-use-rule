@@ -28,3 +28,6 @@ DOMAIN,shadowverse-wb.akamaized.net
 
 #umamusume_en (akamai)
 DOMAIN,assets-umamusume-en.akamaized.net
+
+#bluearchive_int (akamai)
+DOMAIN,ba.dn.nexoncdn.co.kr
