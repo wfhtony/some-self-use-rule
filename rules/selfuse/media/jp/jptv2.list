@@ -29,6 +29,11 @@
 ##IP-CIDR,103.36.32.0/24,no-resolve
 ##IP-CIDR,103.197.59.0/24,no-resolve
 
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,willfonk.com
+DOMAIN-SUFFIX,mov3.co
+DOMAIN-SUFFIX,armelin.one
+DOMAIN-SUFFIX,ra1n.lol
 DOMAIN-SUFFIX,vthanhnetwork.com
 DOMAIN-SUFFIX,nekocdn.xyz
 DOMAIN-SUFFIX,djtmewibu.com
