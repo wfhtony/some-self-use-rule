@@ -72,6 +72,7 @@ DOMAIN,sebumi.p01.lp1.idobata.srv.nintendo.net
 #album_upload
 DOMAIN,api.p01.lp1.nega.srv.nintendo.net
 DOMAIN,receive.p01.lp1.er.srv.nintendo.net
-#以下域名可直連，但可能不穩定
-DOMAIN,nega-lp1-upload.s3.us-east-1.amazonaws.com
+#以下域名可直連，但不穩定。
 DOMAIN,media-dl.wc.lp1.nega.srv.nintendo.net
+#以下域名可直連，但可能不穩定。理論上可以不用優選IP。
+DOMAIN,nega-lp1-upload.s3.us-east-1.amazonaws.com
