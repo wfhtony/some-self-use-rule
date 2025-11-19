@@ -1,0 +1,15 @@
+# ali_sg
+IP-CIDR,47.89.91.0/24,no-resolve
+IP-CIDR,47.89.100.0/23,no-resolve
+IP-CIDR,103.206.40.0/22,no-resolve
+
+# ali_ph
+IP-CIDR,8.209.40.0/21,no-resolve
+
+# ali_id
+IP-CIDR,116.251.80.0/22,no-resolve
+
+# hw_sg
+IP-CIDR,159.138.80.0/20,no-resolve
+IP-CIDR,159.138.96.0/20,no-resolve
+IP-CIDR,159.138.125.0/24,no-resolve

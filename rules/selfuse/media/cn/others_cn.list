@@ -21,6 +21,7 @@ DOMAIN-KEYWORD,keylol
 DOMAIN-SUFFIX,keylol.com
 
 #Others
+#DST-PORT,23301
 DOMAIN-SUFFIX,eicuhq.xyz
 DOMAIN-SUFFIX,btlsmi.xyz
 DOMAIN-SUFFIX,jxpoam.xyz

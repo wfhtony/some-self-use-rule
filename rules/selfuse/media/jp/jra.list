@@ -1,0 +1,25 @@
+# jra
+DOMAIN-SUFFIX,jra.jp
+DOMAIN-SUFFIX,jra.go.jp
+DOMAIN-SUFFIX,japanracing.jp
+
+# jra_live
+DOMAIN,eqlive-eqj128pfeu-live.eq-hls.wselive.stream.ne.jp
+DOMAIN,ssl-cache.stream.ne.jp
+
+# netkeiba
+DOMAIN-KEYWORD,netkeiba
+DOMAIN-SUFFIX,netkeiba.com
+
+# green_ch
+DOMAIN-KEYWORD,greenchannel
+DOMAIN-SUFFIX,greenchannel.jp
+DOMAIN-SUFFIX,gch.jp
+
+# green_ch_live
+DOMAIN,variants.streaks.jp
+
+# nar
+DOMAIN-SUFFIX,keiba.go.jp
+DOMAIN-SUFFIX,keiba-lv-st.jp
+DOMAIN-SUFFIX,keiba-racing.jp

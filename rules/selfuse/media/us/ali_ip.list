@@ -1,0 +1,20 @@
+# ali_us
+IP-CIDR,47.246.5.0/24,no-resolve
+IP-CIDR,47.246.65.0/24,no-resolve
+IP-CIDR,198.11.141.0/24,no-resolve
+IP-CIDR,198.11.184.0/21,no-resolve
+IP-CIDR,205.204.124.0/22,no-resolve
+
+# tencent_us
+IP-CIDR,49.51.56.0/22,no-resolve
+IP-CIDR,49.51.60.0/23,no-resolve
+
+# tencent_ca
+IP-CIDR,49.51.110.0/23,no-resolve
+IP-CIDR,49.51.112.0/20,no-resolve
+
+# baidu_us
+IP-CIDR,63.243.252.0/24,no-resolve
+
+# hw_mx
+IP-CIDR,159.138.79.0/24,no-resolve

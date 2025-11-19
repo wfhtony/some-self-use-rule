@@ -1,0 +1,61 @@
+# ali_hk
+IP-CIDR,8.210.0.0/16,no-resolve
+IP-CIDR,8.212.0.0/14,no-resolve
+IP-CIDR,14.1.112.0/22,no-resolve
+IP-CIDR,47.52.0.0/16,no-resolve
+IP-CIDR,47.56.0.0/15,no-resolve
+IP-CIDR,47.75.0.0/16,no-resolve
+IP-CIDR,47.89.0.0/18,no-resolve
+IP-CIDR,47.89.82.0/23,no-resolve
+IP-CIDR,47.90.0.0/17,no-resolve
+IP-CIDR,47.91.128.0/17,no-resolve
+IP-CIDR,47.240.0.0/16,no-resolve
+IP-CIDR,47.242.0.0/15,no-resolve
+IP-CIDR,47.244.0.0/16,no-resolve
+IP-CIDR,47.246.16.0/24,no-resolve
+IP-CIDR,47.246.60.0/23,no-resolve
+IP-CIDR,149.129.64.0/18,no-resolve
+IP-CIDR,163.181.32.0/22,no-resolve
+IP-CIDR,163.181.40.0/24,no-resolve
+IP-CIDR,170.33.0.0/22,no-resolve
+IP-CIDR,205.204.122.0/23,no-resolve
+
+# tencent_hk
+IP-CIDR,103.7.28.0/22,no-resolve
+IP-CIDR,119.28.0.0/18,no-resolve
+IP-CIDR,119.28.64.0/19,no-resolve
+IP-CIDR,119.28.124.0/23,no-resolve
+IP-CIDR,119.28.128.0/20,no-resolve
+IP-CIDR,119.28.164.0/22,no-resolve
+IP-CIDR,119.28.168.0/21,no-resolve
+IP-CIDR,119.28.176.0/20,no-resolve
+IP-CIDR,119.28.192.0/19,no-resolve
+IP-CIDR,119.28.224.0/21,no-resolve
+IP-CIDR,150.109.32.0/19,no-resolve
+IP-CIDR,150.109.64.0/20,no-resolve
+IP-CIDR,150.109.96.0/19,no-resolve
+IP-CIDR,203.205.128.0/20,no-resolve
+IP-CIDR,203.205.144.0/21,no-resolve
+IP-CIDR,203.205.158.0/24,no-resolve
+IP-CIDR,203.205.208.0/22,no-resolve
+IP-CIDR,203.205.218.0/23,no-resolve
+IP-CIDR,203.205.220.0/22,no-resolve
+IP-CIDR,203.205.248.0/21,no-resolve
+
+# baidu_hk
+IP-CIDR,45.113.194.0/23,no-resolve
+IP-CIDR,103.235.44.0/22,no-resolve
+IP-CIDR,180.76.0.0/16,no-resolve
+IP-CIDR,203.90.238.0/24,no-resolve
+
+# hw_hk
+IP-CIDR,116.66.184.0/22,no-resolve
+IP-CIDR,119.8.32.0/19,no-resolve
+IP-CIDR,159.138.0.0/18,no-resolve
+IP-CIDR,159.138.64.0/21,no-resolve
+IP-CIDR,159.138.128.0/19,no-resolve
+
+# netease_hk
+IP-CIDR,45.195.24.0/24,no-resolve
+IP-CIDR,103.129.252.0/22,no-resolve
+IP-CIDR,103.135.240.0/22,no-resolve
