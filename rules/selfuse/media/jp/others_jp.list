@@ -6,6 +6,10 @@ DOMAIN-SUFFIX,brightcove.com
 # Radiko
 DOMAIN-SUFFIX,radiko.jp
 
+# UniversalMusicJP
+DOMAIN-SUFFIX,buddy-media.jp
+DOMAIN-SUFFIX,hagakure-gate.net
+
 # microCMS
 DOMAIN-SUFFIX,microcms.io
 DOMAIN-SUFFIX,microcms.co.jp
@@ -17,3 +21,5 @@ DOMAIN-SUFFIX,2chan.net
 DOMAIN-SUFFIX,ftbucket.info
 DOMAIN-KEYWORD,5ch
 DOMAIN-SUFFIX,5ch.net
+DOMAIN-SUFFIX,kazumi386.org
+

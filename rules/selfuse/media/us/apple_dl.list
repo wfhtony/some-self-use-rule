@@ -1,3 +1,9 @@
+# 在企業網路上使用 Apple 產品
+# https://support.apple.com/zh-tw/101555
+# 
+# Apple 軟體產品使用的 TCP 和 UDP 埠
+# https://support.apple.com/zh-tw/103229
+
 # Apple_Music
 DOMAIN,aod.itunes.apple.com
 DOMAIN,mvod.itunes.apple.com
@@ -27,5 +33,7 @@ DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,apple.com.cn
 
 # Update
+DOMAIN,appldnld.apple.com
+DOMAIN,secure-appldnld.apple.com
 DOMAIN,updates.cdn-apple.com
 DOMAIN,updates.g.aaplimg.com

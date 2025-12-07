@@ -1,5 +1,11 @@
 # ref: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Apple.list
 
+# 在企業網路上使用 Apple 產品
+# https://support.apple.com/zh-tw/101555
+# 
+# Apple 軟體產品使用的 TCP 和 UDP 埠
+# https://support.apple.com/zh-tw/103229
+
 DOMAIN,apple.comscoreresearch.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akadns.net
