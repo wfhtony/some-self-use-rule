@@ -1,0 +1,31 @@
+DOMAIN,cygames.jp
+DOMAIN,cygames.com
+
+## priconne
+USER-AGENT,princessconnectredive*
+DOMAIN-SUFFIX,omotenashi.cygames.jp
+DOMAIN-SUFFIX,wsdgp.games.dmm.com
+DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
+DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net
+DOMAIN-SUFFIX,priconne-redive.jp
+
+## GandMasters(priconne_0401)
+DOMAIN-KEYWORD,priconne-grandmasters
+DOMAIN-SUFFIX,priconne-grandmasters.jp
+#DOMAIN,api-cmxegy.prd.app.priconne-grandmasters.jp
+#DOMAIN,battleengine-cmxegy.prd.app.priconne-grandmasters.jp
+#DOMAIN,version-yaubrbw5.prd.app.priconne-grandmasters.jp
+DOMAIN-SUFFIX,prd-priconne-grandmasters-hq6jkeih.akamaized.net
+
+## umamusume_jp
+#DOMAIN-KEYWORD,umamusume
+DOMAIN,umamusume.jp
+DOMAIN,api-umamusume.cygames.jp
+DOMAIN,api-common01.cygames.jp
+
+#經測試，這裏的域名都加上了IP地理位置檢測，基本無法直連（重定向至優選IP也沒用）。
+DOMAIN,prd-storage-app-umamusume.akamaized.net
+DOMAIN,prd-storage-game-umamusume.akamaized.net
+
+#已廢棄
+#DOMAIN,prd-storage-umamusume.akamaized.net
