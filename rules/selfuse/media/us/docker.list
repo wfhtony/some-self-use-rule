@@ -5,3 +5,9 @@ DOMAIN,docker.postal.store
 DOMAIN-SUFFIX,docker.dockerhub.timeweb.cloud
 DOMAIN-SUFFIX,s3.timeweb.cloud
 #DOMAIN,ec650031-docker-registry-proxy-x2.s3.timeweb.cloud
+
+# Google(gcr)
+DOMAIN-SUFFIX,gcr.io
+
+# redhat
+DOMAIN-SUFFIX,quay.io
