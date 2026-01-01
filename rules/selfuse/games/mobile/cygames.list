@@ -1,11 +1,14 @@
-DOMAIN,cygames.jp
-DOMAIN,cygames.com
+DOMAIN-SUFFIX,cygames.jp
+DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,cygames.com
+DOMAIN,webstore.cygames.com
+DOMAIN,support.cygames.com
 
 ## priconne
 USER-AGENT,princessconnectredive*
-DOMAIN-SUFFIX,omotenashi.cygames.jp
+#DOMAIN-SUFFIX,omotenashi.cygames.jp
 DOMAIN-SUFFIX,wsdgp.games.dmm.com
-DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
+#DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
 DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net
 DOMAIN-SUFFIX,priconne-redive.jp
 
@@ -19,11 +22,15 @@ DOMAIN-SUFFIX,prd-priconne-grandmasters-hq6jkeih.akamaized.net
 
 ## umamusume_jp
 #DOMAIN-KEYWORD,umamusume
-DOMAIN,umamusume.jp
+DOMAIN-SUFFIX,umamusume.jp
 DOMAIN,api-umamusume.cygames.jp
 DOMAIN,api-common01.cygames.jp
+DOMAIN,api.games.umamusume.jp
+# for ios?
+DOMAIN,a1671.dscb.akamai.net
 
 #經測試，這裏的域名都加上了IP地理位置檢測，基本無法直連（重定向至優選IP也沒用）。
+# 還有，storage-app有原生IP檢測，而storage-game則貌似沒有...
 DOMAIN,prd-storage-app-umamusume.akamaized.net
 DOMAIN,prd-storage-game-umamusume.akamaized.net
 
