@@ -1,3 +1,12 @@
 DOMAIN-SUFFIX,jp
 DOMAIN-SUFFIX,xn—wgv71a
 DOMAIN-SUFFIX,xn—vcst06ab2a
+
+#NHK
+DOMAIN-SUFFIX,nhk
+DOMAIN,api.web.nhk
+DOMAIN-SUFFIX,web.nhk
+DOMAIN-SUFFIX,st.nhk
+DOMAIN-SUFFIX,nhk.or.jp
+DOMAIN-SUFFIX,nhk-cs.jp
+DOMAIN-SUFFIX,jocdn.jp

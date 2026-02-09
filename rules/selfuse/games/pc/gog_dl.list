@@ -1,5 +1,15 @@
 DOMAIN,gog-cdn-lumen.secure2.footprint.net
-DOMAIN,gog-cdn-fastly.gog.com
 
-#cyberpunk2077
+#gog默認走fastly。
+#由於fastly基本無大陸優選cdn節點，如下載不理想，請將fastly域名重定向至0.0.0.0。
+#以切換至akamai節點下載。
+
+##akamai
+DOMAIN,gog-cdn.akamaized.net
+#cyperpunk2077
+DOMAIN,gog-cdn-cp77.akamaized.net
+
+##fastly
+DOMAIN,gog-cdn-fastly.gog.com
+#cyperpunk2077
 DOMAIN,gog-cdn-fastly-cp77.gog.com
