@@ -1,6 +1,10 @@
 ## https://github.com/kinnay/NintendoClients/wiki/Server-List
 
 #DL
+#下載默認走akamai，偶爾會走fastly節點（fastly基本無大陸優選cdn節點）。
+#如遇到下載速度不理想，請將fastly節點對應的域名重定向至0.0.0.0，
+#以儘可能走akamai節點。
+#akamai
 DOMAIN,atum.hac.lp1.d4c.nintendo.net
 DOMAIN,atum.p01.lp1.d4c.srv.nintendo.net
 DOMAIN,atum-img-lp1.cdn.nintendo.net
