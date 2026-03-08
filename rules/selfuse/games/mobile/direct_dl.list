@@ -57,9 +57,14 @@ DOMAIN-SUFFIX,autopatchcn.juequling.com
 
 #uma_komoe
 DOMAIN-KEYWORD,prod-patch-uma
-DOMAIN-SUFFIX,l11-prod-patch-uma.komoejoy.com
+##anycast
+#DOMAIN-SUFFIX,l11-prod-patch-uma.komoejoy.com
+##amazon
 DOMAIN-SUFFIX,l12-prod-patch-uma.komoejoy.com
-DOMAIN-SUFFIX,l16-prod-patch-uma.komoejoy.com
+##kaopucloud
+#DOMAIN-SUFFIX,l16-prod-patch-uma.komoejoy.com
+##tencent
+DOMAIN-SUFFIX,l17-prod-patch-uma.komoejoy.com
 
 #another_eden
 DOMAIN-SUFFIX,cdn-another-eden.gree.net

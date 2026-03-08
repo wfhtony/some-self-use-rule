@@ -7,6 +7,7 @@
 # https://support.apple.com/zh-tw/103229
 
 DOMAIN,apple.comscoreresearch.com
+DOMAIN,www.apple.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,apple-cloudkit.com
@@ -34,3 +35,9 @@ IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
 
+#Music
+DOMAIN,music.apple.com
+DOMAIN,buy.music.apple.com
+DOMAIN,apple.songshift.com
+DOMAIN,mediaservices.cdn-apple.com
+DOMAIN-SUFFIX,applemusic.com

@@ -10,3 +10,9 @@ DOMAIN-SUFFIX,line3-sdk-login.komoejoy.com
 #DOMAIN-SUFFIX,line3-realtime-api.komoejoy.com
 #DOMAIN-SUFFIX,l11-game-support.komoejoy.com
 #DOMAIN-SUFFIX,l11-prod-all-gs-uma.komoejoy.com
+
+#dl
+##anycast
+DOMAIN-SUFFIX,l11-prod-patch-uma.komoejoy.com
+##kaopucloud
+DOMAIN-SUFFIX,l16-prod-patch-uma.komoejoy.com
