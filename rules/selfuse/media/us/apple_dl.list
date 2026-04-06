@@ -4,12 +4,19 @@
 # Apple 軟體產品使用的 TCP 和 UDP 埠
 # https://support.apple.com/zh-tw/103229
 
+#icloud
+DOMAIN-SUFFIX,icloud-content.com
+
 # Apple_Music
 DOMAIN,aod.itunes.apple.com
 DOMAIN,mvod.itunes.apple.com
 DOMAIN,streamingaudio.itunes.apple.com
+DOMAIN,librarydaap.itunes.apple.com
+DOMAIN,sync.itunes.apple.com
+DOMAIN,init.itunes.apple.com
+DOMAIN,amp-api.music.apple.com
 # Apple_Music(user)
-DOMAIN-SUFFIX,blobstore.apple.com
+#DOMAIN-SUFFIX,blobstore.apple.com
 
 # AppleTV
 DOMAIN,vod-ap-amt.tv.apple.com
@@ -31,6 +38,7 @@ IP-CIDR,17.253.75.0/24,no-resolve
 # Apple_CN
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,swcdn.apple.com.w.alikunlun.com
 
 # Update
 DOMAIN,appldnld.apple.com

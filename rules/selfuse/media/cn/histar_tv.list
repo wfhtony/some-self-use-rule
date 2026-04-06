@@ -1,5 +1,8 @@
 DOMAIN-SUFFIX,histar.tv
+DOMAIN-KEYWORD,iill
 #DOMAIN-SUFFIX,play-cdn2.com
 #DOMAIN-SUFFIX,suoni-qiyi.com
 #DOMAIN-SUFFIX,kuaikan-cdn4.com
 #DOMAIN-SUFFIX,mstopq.com
+DOMAIN,hls.iill.top
+#DOMAIN,tv.iill.top

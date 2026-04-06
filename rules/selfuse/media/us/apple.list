@@ -6,8 +6,9 @@
 # Apple 軟體產品使用的 TCP 和 UDP 埠
 # https://support.apple.com/zh-tw/103229
 
-DOMAIN,apple.comscoreresearch.com
 DOMAIN,www.apple.com
+DOMAIN,apple.comscoreresearch.com
+DOMAIN,xp.apple.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,apple-cloudkit.com
@@ -17,6 +18,7 @@ DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,icloud-content.com
@@ -41,3 +43,6 @@ DOMAIN,buy.music.apple.com
 DOMAIN,apple.songshift.com
 DOMAIN,mediaservices.cdn-apple.com
 DOMAIN-SUFFIX,applemusic.com
+
+# Apple_Music(user)
+DOMAIN,blobstore.apple.com
