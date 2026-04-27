@@ -1,0 +1,12 @@
+# MyTVSuper的直播流應該不需要走代理，但直連的情況下會非常慢，建議還是走代理。
+DOMAIN,edgeware-live.edgeware.tvb.com
+#DOMAIN-SUFFIX,edgeware.tvb.com
+#DOMAIN,hk4-edge2-1.edgeware.tvb.com
+#DOMAIN,hk4-edge16-1.edgeware.tvb.com
+#DOMAIN,hk4-edge18-1.edgeware.tvb.com
+#DOMAIN,hk4-edge20-1.edgeware.tvb.com
+#DOMAIN,hk4-edge31-1.edgeware.tvb.com
+#DOMAIN,hk4-edge32-1.edgeware.tvb.com
+#DOMAIN,hk4-edge42-1.edgeware.tvb.com
+
+

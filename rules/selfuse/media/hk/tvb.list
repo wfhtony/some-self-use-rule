@@ -1,0 +1,21 @@
+# https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/MyTVSuper.list
+# 内容：MyTVSuper
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
+DOMAIN,mytvsuperlimited.hb.omtrdc.net
+DOMAIN,mytvsuperlimited.sc.omtrdc.net
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+
+# https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/EncoreTVB.list
+# 内容：EncoreTVB
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,content.jwplatform.com
+DOMAIN,edge.api.brightcove.com
+DOMAIN,videos-f.jwpsrv.com
+DOMAIN-SUFFIX,encoretvb.com
+DOMAIN-SUFFIX,tvbanywherena.com
+
+# MyTVSuper的直播流應該不需要走代理，但直連的情況下會非常慢，建議還是走代理。
+#DOMAIN,edgeware-live.edgeware.tvb.com
+DOMAIN-SUFFIX,edgeware.tvb.com
