@@ -1,2 +1,5 @@
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflarestatus.com
+
+DOMAIN,dash.cloudflare.com
+DOMAIN,one.dash.cloudflare.com
