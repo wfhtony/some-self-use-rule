@@ -81,7 +81,9 @@ DOMAIN,x6oversea-client.infoldgames.com
 DOMAIN,x6oversea-client-backup.infoldgames.com
 
 ##hypergryph
-#endline
+#arknights_tc
+DOMAIN,ak-tw.hg-cdn.com
+#endfield
 DOMAIN,beyond.hg-cdn.com
 
 ##NTE_pw
