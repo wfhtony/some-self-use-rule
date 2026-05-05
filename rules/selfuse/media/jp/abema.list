@@ -1,8 +1,14 @@
 USER-AGENT,AbemaTV*
 DOMAIN-KEYWORD,abema
 # 注意：
-# wt-api.p-c3-e.abema-tv.com 這個DOMAIN會走QUIC協議。
-# 如遇到頁面顯示「お住まいの地域からは/nご視聴できません」的提示，請打開QUIC嗅探...
+# api-abematv.bucketeer.jp
+# api.p-c3-e.abema-tv.com
+# wt-api.p-c3-e.abema-tv.com
+# realtime-api.p-c3-e.abema-tv.com
+# user-schedule-api.p-c3-e.abema-tv.com
+# itr.ad.abema.io ← 這個是廣告用，應該可以忽略（
+# 這些DOMAIN會走QUIC協議。
+# 如遇到頁面顯示「お住まいの地域からは/nご視聴できません」的提示，請打開QUIC嗅探，或者阻擋QUIC...
 #DOMAIN-SUFFIX,abematv.akamaized.net
 #DOMAIN-SUFFIX,vod-abematv.akamaized.net
 #DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
