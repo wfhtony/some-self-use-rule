@@ -1,0 +1,5 @@
+#正常情況下可以直連。
+DOMAIN,tv.team
+DOMAIN,tvteam.pro
+DOMAIN-SUFFIX,hls.gd
+DOMAIN,epg.team

@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
 IP-CIDR,17.0.0.0/8,no-resolve
@@ -43,6 +44,18 @@ DOMAIN,buy.music.apple.com
 DOMAIN,apple.songshift.com
 DOMAIN,mediaservices.cdn-apple.com
 DOMAIN-SUFFIX,applemusic.com
+DOMAIN-SUFFIX,applemusic.berlin
+DOMAIN-SUFFIX,applemusic.co
+DOMAIN-SUFFIX,applemusic.com.au
+DOMAIN-SUFFIX,applemusic.hamburg
+DOMAIN-SUFFIX,applemusic.wang
+DOMAIN-SUFFIX,applemusicconnect.com
+DOMAIN-SUFFIX,applemusicfestival.com
+DOMAIN-SUFFIX,musickit.net
+DOMAIN-SUFFIX,wwwapplemusic.com
 
 # Apple_Music(user)
 DOMAIN,blobstore.apple.com
+
+# App_Store(web)
+DOMAIN,apps.apple.com

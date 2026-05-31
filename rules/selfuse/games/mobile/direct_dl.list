@@ -72,6 +72,9 @@ DOMAIN-SUFFIX,cdn-another-eden.gree.net
 #heaven_burns_red
 DOMAIN-SUFFIX,heaven-burns-red-assets.akamaized.net
 
+#BangDream_JP
+DOMAIN,content.garupa.jp
+
 #wuthering_wave
 DOMAIN,cdn-huoshan-hw-mc.aki-game.net
 DOMAIN,hw-pcdownload-huoshan.aki-game.net
