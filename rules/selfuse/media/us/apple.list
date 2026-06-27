@@ -59,3 +59,9 @@ DOMAIN,blobstore.apple.com
 
 # App_Store(web)
 DOMAIN,apps.apple.com
+
+# Noti_push
+DOMAIN,push.apple.com
+DOMAIN,gateway.push.apple.com
+DOMAIN,api.push.apple.com
+DOMAIN,sandbox.push.apple.com

@@ -22,6 +22,7 @@ DOMAIN,amp-api.music.apple.com
 DOMAIN,vod-ap-amt.tv.apple.com
 DOMAIN,hls-amt.itunes.apple.com
 DOMAIN,play.itunes.apple.com
+DOMAIN,a1936.dscw11.akamai.net
 
 # HK_CDN
 IP-CIDR,17.253.85.0/24,no-resolve
