@@ -5,3 +5,7 @@ DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,ghcr.io
+
+# npm
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,npmjs.com
