@@ -38,3 +38,7 @@ DOMAIN,ba.dn.nexoncdn.co.kr
 #bluearchive_jp (cloudfront)
 DOMAIN,prod-clientpatch.bluearchiveyostar.com
 DOMAIN,d2k5sze6zgexh.cloudfront.net
+
+##hypergryph
+#endfield (cloudfront)
+DOMAIN,d14fglc8twdsr6.cloudfront.net
