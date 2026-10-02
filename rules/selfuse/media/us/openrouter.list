@@ -7,3 +7,6 @@ DOMAIN-SUFFIX,lmstudio.ai
 
 # models.dev
 DOMAIN-SUFFIX,models.dev
+
+# TypeSafe
+DOMAIN-SUFFIX,typesafe.ai

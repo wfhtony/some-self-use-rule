@@ -1,0 +1,6 @@
+# 部分出海業務。中國大陸直連可能無法進行跳轉，從而影響交易操作。
+# 主要和 3D Secure 有關？ 
+
+# 招行_3DSecure
+DOMAIN,jcb2.acs.cmbchina.com
+DOMAIN,openbanking-global.cmbchina.com
