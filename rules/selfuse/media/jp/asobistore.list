@@ -1,11 +1,14 @@
-# Asobi-Store
+# AsobiStore
 DOMAIN-SUFFIX,asobistore.jp
 DOMAIN-SUFFIX,bn-ent.net
 DOMAIN-SUFFIX,bandainamcoid.com
 
 # Asobistage
 DOMAIN-KEYWORD,lalabit
-#DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,asobistage.asobistore.jp
+DOMAIN,survapi.channel.or.jp
+DOMAIN,playervspf.channel.or.jp
+DOMAIN,mavspf.channel.or.jp
+DOMAIN,bnfaq.channel.or.jp
+DOMAIN-SUFFIX,cmsv.asobistore.jp
 
-DOMAIN-SUFFIX,microcms.io

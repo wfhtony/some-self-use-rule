@@ -4,3 +4,34 @@ DOMAIN-SUFFIX,supportnettv.com
 DOMAIN-SUFFIX,jpnettv.live
 DOMAIN-SUFFIX,onesignal.com
 DOMAIN-SUFFIX,animehd.club
+
+## akamai
+#Abema
+DOMAIN-SUFFIX,abematv.akamaized.net
+#DOMAIN-SUFFIX,vod-abematv.akamaized.net
+#DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
+#DOMAIN-SUFFIX,ds-linear-abematv.akamaized.net
+#DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net
+#DOMAIN-SUFFIX,linear-abematv.akamaized.net
+
+## cloudfront
+#AsobiStage
+# 直播 CDN（每個 channel 可能不同 distribution）
+# ch03
+DOMAIN,d2m942n4peb2cb.cloudfront.net
+# ch04
+DOMAIN,d1hio406y524vr.cloudfront.net
+# archive HLS/DASH
+DOMAIN,dce1j8lyafk9e.cloudfront.net
+# 海報 / 縮圖
+DOMAIN,d1itrq3ipc8cvt.cloudfront.net
+
+# Zaiko
+# 一般場次／archive HLS
+DOMAIN,d6rahdpjywhoa.cloudfront.net
+# JWT playback_url
+DOMAIN,d2y3mlel7uksux.cloudfront.net
+# tokengenerate
+DOMAIN,d3g941pfvqtpvn.cloudfront.net
+# 播放器狀態 WebSocket（AWS API Gateway）
+DOMAIN,yi3q1fxvr7.execute-api.ap-northeast-1.amazonaws.com
